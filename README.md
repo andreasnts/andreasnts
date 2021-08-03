@@ -1,7 +1,7 @@
-### Olá! Eu sou o André 👋
-
+### Olá! Eu sou o André 🎮
 
 - 🎮 Atualmente trabalho com desenvolvimento de jogos
+- 🏢Light Games :brazil:
 - 🖥️ Estudo Blueprint na Unreal Engine 4
 - 📫 Quer me contatar? andre.santosgma@gmail.com
 - 😄 Pronouns: ele/dele
@@ -12,13 +12,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasnts&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andre-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Andre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andre-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Andre-Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
+  <img align="center" alt="Andre-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg">
+  <img align="center" alt="Andre-Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="right" alt="Andre-yoda" src="https://media.giphy.com/media/krkrHAEodHgzP72rTI/giphy.gif">
 </div>
   
