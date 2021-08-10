@@ -1,15 +1,15 @@
 ### Olá! Eu sou o André 🎮
 
 - 🎮 Atualmente trabalho com desenvolvimento de jogos
-- 🏢Light Games :brazil:
+- 🏢Light Games e Softwares Eireli :brazil:
 - 🖥️ Estudo Blueprint na Unreal Engine 4
 - 📫 Quer me contatar? andre.santosgma@gmail.com
 - 😄 Pronouns: ele/dele
 
  <div>
   <a href="https://github.com/andreasnts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreasnts&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasnts&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreasnts&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreasnts&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
