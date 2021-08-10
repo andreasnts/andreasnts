@@ -20,9 +20,7 @@
   <img align="center" alt="Andre-Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="right" alt="Andre-yoda" src="https://media.giphy.com/media/krkrHAEodHgzP72rTI/giphy.gif">
 </div>
-  
   ##
- 
 <div> 
   <a href="https://www.youtube.com/channel/UCSOBcx205wG_EeyXTptv27g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dreeh_s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
