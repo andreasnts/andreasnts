@@ -1,6 +1,6 @@
 ### Olá! Eu sou o André 🎮
 
-- 🎮 Atualmente trabalho com desenvolvimento de jogos
+- 🎮 Atualmente trabalho com desenvolvimento de jogos na Light Games Software Eireli
 - 🏢OpenToWork :brazil:
 - 🖥️ Estudo Blueprint na Unreal Engine 4
 - 📫 Quer me contatar? andre.santosgma@gmail.com
