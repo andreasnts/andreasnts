@@ -1,8 +1,9 @@
 ### Olá! Eu sou o André 🎮
 
-- 🎮 Atualmente trabalho com desenvolvimento de jogos
-- 🏢 Na Light Games Software Eireli :brazil:
-- 🖥️ Estudo Blueprint na Unreal Engine 4
+- 🎮 Atualmente buscando recolocação na área de Análise de Sistemas
+- 🏢 Unimar - ADS :brazil:
+- 🖥️ Habilidade em dev Blueprint na Unreal Engine 4 | 5
+- 🎮 Game produzido: WarTown = https://store.steampowered.com/app/2709380/War_Town/
 - 📫 Quer me contatar? andre.santosgma@gmail.com
 - 😄 Pronouns: ele/dele
 
