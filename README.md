@@ -1,6 +1,6 @@
 ### Olá! Eu sou o André 🎮
 
-- 🎮 Atualmente buscando recolocação na área de Análise de Sistemas
+- 🖥️ Atualmente buscando recolocação na área de Análise de Sistemas
 - 🏢 Unimar - ADS :brazil:
 - 🖥️ Habilidade em dev Blueprint na Unreal Engine 4 | 5
 - 🎮 Game produzido: WarTown = https://store.steampowered.com/app/2709380/War_Town/
